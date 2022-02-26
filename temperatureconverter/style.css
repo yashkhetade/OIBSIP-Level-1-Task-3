@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+label{
+    font-size: 18px;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+input{
+    border-color: aqua;
+    font-size: 20px;
+    box-shadow: 0px 5px 10px cyan;
+
+}
+
+#reset{
+    border-color: red;
+}
+
+.btn{
+    background-color: rgb(48, 23, 160);
+    color: white;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
